@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.665e5d2f.css",
-    "main.js": "/my-website/static/js/main.a70e5a54.js",
+    "main.css": "/my-website/static/css/main.46e794ba.css",
+    "main.js": "/my-website/static/js/main.a89ee028.js",
     "static/js/453.ed3810f9.chunk.js": "/my-website/static/js/453.ed3810f9.chunk.js",
-    "static/media/tameimpala.png": "/my-website/static/media/tameimpala.ac1c3757ec278fc3e075.png",
-    "static/media/me1.png": "/my-website/static/media/me1.ceebb8145a9a0e83e881.png",
-    "static/media/berkeleyscreenshot.png": "/my-website/static/media/berkeleyscreenshot.f6fc36612d0fa341c934.png",
-    "static/media/liluzivert.png": "/my-website/static/media/liluzivert.9a907b211f6def504dbd.png",
-    "static/media/duster.png": "/my-website/static/media/duster.929e48c8d6e99e61f401.png",
-    "static/media/1975.png": "/my-website/static/media/1975.47dfb893c556b863e857.png",
-    "static/media/me3.png": "/my-website/static/media/me3.b3406ce67c3bf98c8d1b.png",
-    "static/media/whitebackground4k.jpg": "/my-website/static/media/whitebackground4k.7b3bb36a891522f83c24.jpg",
-    "static/media/meta.png": "/my-website/static/media/meta.23438aef2f10fa3e55f8.png",
-    "static/media/boyscoutlogo.jpg": "/my-website/static/media/boyscoutlogo.58d1844542c18472c17a.jpg",
-    "static/media/spotifylogo.png": "/my-website/static/media/spotifylogo.3c341efdd3fbd14865fe.png",
-    "static/media/vfclogo.png": "/my-website/static/media/vfclogo.165f5170792139e9d3e1.png",
-    "static/media/youtubelogo.png": "/my-website/static/media/youtubelogo.5f9a97c9558efe617504.png",
-    "static/media/adobe.png": "/my-website/static/media/adobe.1806afb66a2c875d0f95.png",
-    "static/media/me2.jpg": "/my-website/static/media/me2.b2162693a0041c767861.jpg",
-    "static/media/logo.svg": "/my-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/literata-latin-wght-normal.woff2": "/my-website/static/media/literata-latin-wght-normal.3bc8a4591b427fc98595.woff2",
+    "static/media/literata-latin-ext-wght-normal.woff2": "/my-website/static/media/literata-latin-ext-wght-normal.518942c883b8f10c1f3d.woff2",
+    "static/media/literata-cyrillic-wght-normal.woff2": "/my-website/static/media/literata-cyrillic-wght-normal.c1ad307687aea7c751e1.woff2",
+    "static/media/literata-greek-wght-normal.woff2": "/my-website/static/media/literata-greek-wght-normal.a31844a45f44ef3bd89e.woff2",
+    "static/media/literata-greek-ext-wght-normal.woff2": "/my-website/static/media/literata-greek-ext-wght-normal.163113b325e1a40690db.woff2",
+    "static/media/literata-vietnamese-wght-normal.woff2": "/my-website/static/media/literata-vietnamese-wght-normal.775e14a8b5f9de3c8801.woff2",
+    "static/media/literata-cyrillic-ext-wght-normal.woff2": "/my-website/static/media/literata-cyrillic-ext-wght-normal.4d8536690db9c4446935.woff2",
     "index.html": "/my-website/index.html",
-    "main.665e5d2f.css.map": "/my-website/static/css/main.665e5d2f.css.map",
-    "main.a70e5a54.js.map": "/my-website/static/js/main.a70e5a54.js.map",
+    "main.46e794ba.css.map": "/my-website/static/css/main.46e794ba.css.map",
+    "main.a89ee028.js.map": "/my-website/static/js/main.a89ee028.js.map",
     "453.ed3810f9.chunk.js.map": "/my-website/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.665e5d2f.css",
-    "static/js/main.a70e5a54.js"
+    "static/css/main.46e794ba.css",
+    "static/js/main.a89ee028.js"
   ]
 }
