@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.46e794ba.css",
-    "main.js": "/my-website/static/js/main.a89ee028.js",
+    "main.css": "/my-website/static/css/main.f3aa8f12.css",
+    "main.js": "/my-website/static/js/main.e09ccde2.js",
     "static/js/453.ed3810f9.chunk.js": "/my-website/static/js/453.ed3810f9.chunk.js",
-    "static/media/literata-latin-wght-normal.woff2": "/my-website/static/media/literata-latin-wght-normal.3bc8a4591b427fc98595.woff2",
-    "static/media/literata-latin-ext-wght-normal.woff2": "/my-website/static/media/literata-latin-ext-wght-normal.518942c883b8f10c1f3d.woff2",
-    "static/media/literata-cyrillic-wght-normal.woff2": "/my-website/static/media/literata-cyrillic-wght-normal.c1ad307687aea7c751e1.woff2",
-    "static/media/literata-greek-wght-normal.woff2": "/my-website/static/media/literata-greek-wght-normal.a31844a45f44ef3bd89e.woff2",
-    "static/media/literata-greek-ext-wght-normal.woff2": "/my-website/static/media/literata-greek-ext-wght-normal.163113b325e1a40690db.woff2",
-    "static/media/literata-vietnamese-wght-normal.woff2": "/my-website/static/media/literata-vietnamese-wght-normal.775e14a8b5f9de3c8801.woff2",
-    "static/media/literata-cyrillic-ext-wght-normal.woff2": "/my-website/static/media/literata-cyrillic-ext-wght-normal.4d8536690db9c4446935.woff2",
+    "static/media/me3.png": "/my-website/static/media/me3.b3406ce67c3bf98c8d1b.png",
     "index.html": "/my-website/index.html",
-    "main.46e794ba.css.map": "/my-website/static/css/main.46e794ba.css.map",
-    "main.a89ee028.js.map": "/my-website/static/js/main.a89ee028.js.map",
+    "main.f3aa8f12.css.map": "/my-website/static/css/main.f3aa8f12.css.map",
+    "main.e09ccde2.js.map": "/my-website/static/js/main.e09ccde2.js.map",
     "453.ed3810f9.chunk.js.map": "/my-website/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46e794ba.css",
-    "static/js/main.a89ee028.js"
+    "static/css/main.f3aa8f12.css",
+    "static/js/main.e09ccde2.js"
   ]
 }
