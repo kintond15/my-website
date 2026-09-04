@@ -1,7 +1,7 @@
 import { HashRouter, Link, Route, Routes } from 'react-router-dom';
 import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
 import { FaSpotify, FaYoutube } from 'react-icons/fa';
-import profilePhoto from './assets/me3.png';
+import profilePhoto from './assets/me2.jpg';
 import './App.css';
 
 const experiences = [
@@ -68,7 +68,7 @@ function HomePage() {
           <nav className="page-index" aria-label="Explore the site">
             <p>Read</p>
             <div>
-              <Link to="/experience"><span>Experience</span><span aria-hidden="true">&#8594;</span></Link>
+              <Link to="/experience"><span>Work Experience</span><span aria-hidden="true">&#8594;</span></Link>
               <Link to="/music"><span>Music</span><span aria-hidden="true">&#8594;</span></Link>
             </div>
           </nav>

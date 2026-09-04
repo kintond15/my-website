@@ -3,7 +3,7 @@ html { background: #f5f4ef; }
 body {
   margin: 0;
   min-width: 320px;
-  font-family: 'Lora Variable', Lora, serif;
+  font-family: Abel, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
