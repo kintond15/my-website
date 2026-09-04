@@ -121,7 +121,7 @@ function MusicPage() {
   return (
     <div className="site-shell">
       <nav className="page-nav" aria-label="Back to homepage">
-        <Link to="/"><span aria-hidden="true">&#8592;</span> Index</Link>
+        <Link to="/"><span aria-hidden="true">&#8592;</span> Back</Link>
       </nav>
       <main className="page-main">
         <div className="music-body">
